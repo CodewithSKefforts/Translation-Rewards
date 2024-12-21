@@ -5,6 +5,8 @@ The Translation Rewards project is a blockchain-based platform designed to incen
 
 ## Contract Address
 0x6D4Ab7B9Ec9F69feD003eb328464eA9591DBc81A
+![{18C3A17F-067F-4945-A3D2-52AE38A10713}](https://github.com/user-attachments/assets/4acf577f-1b51-4101-8af4-8c58ca957b01)
+
 ## Project Vision
 The vision of this project is to create a decentralized ecosystem where translators can earn fairly and efficiently for their contributions in bridging language barriers in education. The system provides secure and transparent transactions, making it easier for content creators and translators to collaborate globally.
 
